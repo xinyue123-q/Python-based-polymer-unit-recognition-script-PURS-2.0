@@ -8,7 +8,7 @@
 ```
 conda create -n PURS
 conda activate PURS
-pip install -r requirements.txt
+pip install -r requirements.yml
 ```
 #### 2.Interpretable GNNS based on polymer-units--PU-gn-exp
 
