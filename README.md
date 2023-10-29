@@ -11,6 +11,7 @@ conda activate PURS
 pip install -r requirements.txt
 ```
 #### 2.Interpretable GNNS based on polymer-units--PU-gn-exp
+
 gn-exp is developed as the baseline model.Please follow the link "https://github.com/baldassarreFe/graph-network-explainability" to install gn-exp first and then refer to Readme in the PU-gn-exp folder.
 
 #### 3.Prediction model based on polymer-unit--PU-MPNN
